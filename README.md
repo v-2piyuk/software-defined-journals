@@ -17,5 +17,3 @@ Trying to make things simpler to follow.
 [Tool Tips](https://www.notion.so/Tool-Tips-f6e0b234f49548f6a7f7be52e493ee27)
 
 [Nutanix Files](https://www.notion.so/Nutanix-Files-8c7c7f4a6b9445a28870af911e1fafe9)
-
-[New Content](https://www.notion.so/d09075a2d17e49e5a56d7460938ca17f)
