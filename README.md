@@ -1,30 +1,21 @@
-# docsmadesimple
-<!-- wp:paragraph -->
-<p>I am an accidental <strong>Product support engineer</strong>. I never thought that my encounter with technologies will be so interesting. <span style="text-decoration:underline;">Sometimes it's better to not know what you desire to know. :) </span></p>
-<!-- /wp:paragraph -->
+# Home
 
-<!-- wp:list -->
-<ul><li>I kept on learning &amp; growing at the same time in my previous job assignments. I never planned what I want to achieve and it's common and natural but the key is dedication and hunger to learn, I still follow the same track. <ul><li><strong>"Learning never ends" </strong>and taking <strong>"calculated risks" </strong>always pays dividends in the end.</li></ul></li><li>I started my career as a customer support executive in a BPO industry. When I look back now, there are two key decisions or approach helped me. </li></ul>
-<!-- /wp:list -->
+# Simplify Server Virtualization
 
-<!-- wp:paragraph -->
-<p>On job experience with the help of the right mentors and my ability to take risks and try new things. </p>
-<!-- /wp:paragraph -->
+An effort to make Software Defined Virtualization technologies easy to follow. 
 
-<!-- wp:paragraph -->
-<p>My appetite to learn new technologies landed me in some top-notch organizations. I learned cutting edge technologies, especially in the field of virtualization. Matured as an individual and a professional. The journey is still a work in progress and I still don't know what future holds for me but I am optimistic.<br></p>
-<!-- /wp:paragraph -->
+> “Uncomplex the complexity of a product  Keep the User experience with the product at its core. Treat Deployment, Administration and Troubleshooting documentation as a first-class citizen and integrate with product experience”
 
-<!-- wp:heading {"level":3} -->
-<h3>What I do?</h3>
-<!-- /wp:heading -->
+---
 
-<!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph -->
-<p>In my current role, I am acting as Staff Serviceability Engineer with a sole aim:- </p>
-<!-- /wp:paragraph -->
+Trying to make things simpler to follow. 
 
-<!-- wp:list -->
-<ul><li>Uncomplex the complexity of a product. </li><li>User Experience with the product at its core. </li><li>Deployment, Administration and Troubleshooting documentation focus and it's integration with product.</li></ul>
-<!-- /wp:list --></div></div>
-<!-- /wp:group -->
+Content to be reviewed. 
+
+[Microsoft Private Cloud](https://www.notion.so/Microsoft-Private-Cloud-8045bdb7838841139a7007d23ac656d9)
+
+[Tool Tips](https://www.notion.so/Tool-Tips-f6e0b234f49548f6a7f7be52e493ee27)
+
+[Nutanix Files](https://www.notion.so/Nutanix-Files-8c7c7f4a6b9445a28870af911e1fafe9)
+
+[New Content](https://www.notion.so/d09075a2d17e49e5a56d7460938ca17f)
